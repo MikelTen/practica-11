@@ -1,0 +1,36 @@
+.Titulo{
+
+    color: orange;
+    background-color: black;
+}
+
+
+.izquierda{
+
+float: left;
+
+}
+.Porteros{
+    color: orange;
+    position: relative;
+    left: auto;
+}
+.Defensas{
+position: relative;
+color: orange;
+left: auto ;
+}
+
+.Centrocampistas{
+    color: orange;
+}
+.Delanteros{
+
+    position: relative;
+    color: orange;
+}
+div.escudo{
+
+    position: relative;
+    right: -925px;
+}
